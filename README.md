@@ -18,11 +18,11 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 5
 Development Tools
-[ ] 1. Course Introduction 3:11
-[ ] 2. Intro To Cloud 9 3:25
-[ ] 3. C9 Walkthru 4:31
-[ ] 4. Version Control With Git 4:25
-[ ] 5. Github.com 6:07
+[x] 1. Course Introduction 3:11
+[x] 2. Intro To Cloud 9 3:25
+[x] 3. C9 Walkthru 4:31
+[x] 4. Version Control With Git 4:25
+[x] 5. Github.com 6:07
 
 Section: 2
 0 / 8
