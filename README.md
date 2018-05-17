@@ -27,8 +27,8 @@ Development Tools
 Section: 2
 0 / 8
 Building A Basic Rails App
-[ ] 6. Creating Our First Webpage 4:04
-[ ] 7. Rails Routing 2:48
+[x] 6. Creating Our First Webpage 4:04
+[x] 7. Rails Routing 2:48
 [ ] 8. Manually Creating an About Page 3:00
 [ ] 9. Understanding Application.html.erb 2:58
 [ ] 10. Creating Links 3:34
