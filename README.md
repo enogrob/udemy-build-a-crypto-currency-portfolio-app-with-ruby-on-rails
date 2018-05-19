@@ -29,12 +29,12 @@ Section: 2
 Building A Basic Rails App
 [x] 6. Creating Our First Webpage 4:04
 [x] 7. Rails Routing 2:48
-[ ] 8. Manually Creating an About Page 3:00
-[ ] 9. Understanding Application.html.erb 2:58
-[ ] 10. Creating Links 3:34
-[ ] 11. Creating Partials 2:44
-[ ] 12. CSS With Bootstrap 5:39
-[ ] 13. Building a Bootstrap Navbar 6:23
+[x] 8. Manually Creating an About Page 3:00
+[x] 9. Understanding Application.html.erb 2:58
+[x] 10. Creating Links 3:34
+[x] 11. Creating Partials 2:44
+[x] 12. CSS With Bootstrap 5:39
+[x] 13. Building a Bootstrap Navbar 6:23
 
 Section: 3
 0 / 7
