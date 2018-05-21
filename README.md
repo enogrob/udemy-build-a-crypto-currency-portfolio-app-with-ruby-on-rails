@@ -39,13 +39,13 @@ Building A Basic Rails App
 Section: 3
 0 / 7
 Crypto Currency Data API
-[ ] 14. CoinMarketCap API Intro 3:24
-[ ] 15. Crypto Controller 4:56
-[ ] 16. Crypto Output 3:51
-[ ] 17. Looping Through The Output 6:02
-[ ] 18. Single Coin Lookup Form 5:12
-[ ] 19. Form Error Handling 2:39
-[ ] 20. Connecting To The API 4:40
+[x] 14. CoinMarketCap API Intro 3:24
+[x] 15. Crypto Controller 4:56
+[x] 16. Crypto Output 3:51
+[x] 17. Looping Through The Output 6:02
+[x] 18. Single Coin Lookup Form 5:12
+[x] 19. Form Error Handling 2:39
+[x] 20. Connecting To The API 4:40
 
 Section: 4
 0 / 7
