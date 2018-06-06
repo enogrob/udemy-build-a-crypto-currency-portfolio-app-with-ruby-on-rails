@@ -50,9 +50,9 @@ Crypto Currency Data API
 Section: 4
 0 / 7
 Creating a User Management System
-[ ] 21. Intro To User Management With Devise 2:59
-[ ] 22. Installing Devise 5:54
-[ ] 23. Devise Database 4:40
+[x] 21. Intro To User Management With Devise 2:59
+[x] 22. Installing Devise 5:54
+[x] 23. Devise Database 4:40
 [ ] 24. Devise Views and Routes 4:12
 [ ] 25. Devise Links 6:04
 [ ] 26. Devise View Bootstraping 4:01
