@@ -53,10 +53,10 @@ Creating a User Management System
 [x] 21. Intro To User Management With Devise 2:59
 [x] 22. Installing Devise 5:54
 [x] 23. Devise Database 4:40
-[ ] 24. Devise Views and Routes 4:12
-[ ] 25. Devise Links 6:04
-[ ] 26. Devise View Bootstraping 4:01
-[ ] 27. Devise Panel Views 5:23
+[x] 24. Devise Views and Routes 4:12
+[x] 25. Devise Links 6:04
+[x] 26. Devise View Bootstraping 4:01
+[x] 27. Devise Panel Views 5:23
 
 Section: 5
 0 / 15
