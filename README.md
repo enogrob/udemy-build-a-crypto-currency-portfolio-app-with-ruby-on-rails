@@ -61,9 +61,9 @@ Creating a User Management System
 Section: 5
 0 / 15
 Building A Portfolio System
-[ ] 28. Intro To The Portfolio Database 3:12
-[ ] 29. Creating a Crypto Database Table 5:52
-[ ] 30. Portfolio View Pages 4:43
+[x] 28. Intro To The Portfolio Database 3:12
+[x] 29. Creating a Crypto Database Table 5:52
+[x] 30. Portfolio View Pages 4:43
 [ ] 31. Portfolio Links 4:23
 [ ] 32. Rails Associations 4:36
 [ ] 33. Associations Continued 4:06
